@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Adolfo+Cruz;Full-Stack+Developer;Cybersecurity+Student;Secure+Development+%26+Ethical+Hacking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Adolfo+Cruz;Full-Stack+Developer;Cybersecurity+Student;" />
 </p>
 
 <h3 align="center">Full-Stack Developer • Cybersecurity Student</h3>
@@ -19,50 +19,39 @@
 
 ---
 
-## > whoami
+## [ SYSTEM_IDENTITY ]
 
-I’m a Full-Stack Developer working with Angular and .NET, currently pursuing a Master’s in Cybersecurity.
+Full-Stack Developer exploring how systems work — and how they break.
 
-Interested in:
-
-- Application Security
-- Ethical Hacking
-- SIEM
-- Linux Security
+Focused on secure development and studying cybersecurity.
 
 ---
 
-## > tech_stack
+## [ TOOLKIT ]
 
-Java • C • JavaScript • Angular • .NET • SQL Server • Linux • Windows
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,angular,ts,python,java,html,nodejs,git,github,docker,jenkins,nginx,powershell" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver" />
+<img src="https://img.shields.io/badge/Cisco-black?style=for-the-badge&logo=cisco" />
+<img src="https://img.shields.io/badge/Confluence-black?style=for-the-badge&logo=confluence" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-black?style=for-the-badge&logo=raspberrypi" />
+<img src="https://img.shields.io/badge/TOR-black?style=for-the-badge&logo=torproject" />
+<img src="https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger" />
+<img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira" />
+<img src="https://img.shields.io/badge/Wazuh-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Suricata-black?style=for-the-badge" />
+</p>
 
 ---
 
-## > security_focus
-
-Networking fundamentals (ports, protocols)
-Linux permissions
-Log analysis
-SIEM concepts
-Common attack types
-
----
-
-## > projects
+## [ EXPERIMENTS ]
 
 Raspberry Pi Home Lab
 SIEM Lab (in progress)
+Web Portfolio (in progress)
 
 ---
 
-## > github_stats
-
-https://github-readme-stats.vercel.app/api?username=ad0lf0c&show_icons=true&theme=chartreuse-dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=ad0lf0c&layout=compact&theme=chartreuse-dark&hide_border=true
-
----
-
-## > footprint
-
-https://komarev.com/ghpvc/?username=ad0lf0c&color=00ff00&style=for-the-badge
