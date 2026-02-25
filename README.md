@@ -19,7 +19,7 @@
 
 ---
 
-## [ SYSTEM_IDENTITY ]
+## Whoami
 
 Full-Stack Developer exploring how systems work — and how they break.
 
@@ -27,7 +27,7 @@ Focused on secure development and studying cybersecurity.
 
 ---
 
-## [ TOOLKIT ]
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,angular,ts,python,java,html,nodejs,git,github,docker,jenkins,nginx,powershell" />
@@ -47,7 +47,7 @@ Focused on secure development and studying cybersecurity.
 
 ---
 
-## [ EXPERIMENTS ]
+## Projects
 
 Raspberry Pi Home Lab
 
@@ -56,4 +56,3 @@ SIEM Lab (in progress)
 Web Portfolio (in progress)
 
 ---
-
