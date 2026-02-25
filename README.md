@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Adolfo+Cruz;Full-Stack+Developer;Cybersecurity+Student;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Adolfo+Cruz;" />
 </p>
 
 <h3 align="center">Full-Stack Developer • Cybersecurity Student</h3>
@@ -50,7 +50,9 @@ Focused on secure development and studying cybersecurity.
 ## [ EXPERIMENTS ]
 
 Raspberry Pi Home Lab
+
 SIEM Lab (in progress)
+
 Web Portfolio (in progress)
 
 ---
